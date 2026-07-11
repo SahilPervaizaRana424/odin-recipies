@@ -19,4 +19,4 @@ This project is a basic recipe website built using HTML. It contains a homepage 
 
 ## Live Preview
 
-Coming Soon
+[Live Demo](https://sahilpervaizarana424.github.io/odin-recipies/)
